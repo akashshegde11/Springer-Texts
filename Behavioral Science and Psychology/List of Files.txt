@@ -1,0 +1,14 @@
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2020     13:06        5328990 Applied Behavior Analysis (2016).pdf                                 
+-a----        08-04-2021     13:02              0 Behavioral Science and Psychology Texts.txt                          
+-a----        17-06-2020     13:09        4975409 Clinical Methods in Medical Family Therapy (2018).pdf                
+-a----        17-06-2020     13:10        4201350 Foundations of Behavioral Health (2020).pdf                          
+-a----        17-06-2020     13:08        4103737 Handbook of Consumer Finance Research (2016).pdf                     
+-a----        17-06-2020     13:06        2485986 International Perspectives on Psychotherapy (2017).pdf               
+-a----        17-06-2020     13:09       11124797 Motivation and Action (2018).pdf                                     
+-a----        17-06-2020     13:10        7611368 Perceptual Organization (2019).pdf                                   
+-a----        17-06-2020     13:07        3145898 Psychology of Perception (2016).pdf                                  
+-a----        17-06-2020     13:11        4491780 Social Psychology in Action (2019).pdf                               
+
+
