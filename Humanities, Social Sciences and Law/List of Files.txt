@@ -1,0 +1,20 @@
+
+
+    Directory: D:\Projects\Springer Books\Humanities, Social Sciences and Law
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2020     15:15        3488555 Handbook of Disaster Research (2007).pdf                             
+-a----        17-06-2020     15:18        7038440 Handbook of Marriage and the Family (2013).pdf                       
+-a----        17-06-2020     15:17        9790135 Handbook of Quantitative Criminology (2010).pdf                      
+-a----        17-06-2020     15:16       56148056 Handbook of Sociological Theory (2001).pdf                           
+-a----        17-06-2020     15:14        4129819 Handbook of the Life Course (2003).pdf                               
+-a----        17-06-2020     15:15       47449596 Handbook of the Sociology of Gender (2006).pdf                       
+-a----        17-06-2020     15:17       13743725 International Handbook of Historical Archaeology (2009).pdf          
+-a----        17-06-2020     15:17        2882366 LGBT-Parent Families (2013).pdf                                      
+-a----        08-04-2021     13:54              0 List.txt                                                             
+-a----        17-06-2020     15:18        4042392 Statistics in Criminal Justice (2014).pdf                            
+-a----        17-06-2020     15:18        2628466 The Action Research Planner (2014).pdf                               
+
+
