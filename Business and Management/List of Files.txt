@@ -1,0 +1,31 @@
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2020     13:47       11035701 A Concise Guide to Market Research (2019).pdf                        
+-a----        17-06-2020     13:46        3493810 Analytical Corporate Finance (2018).pdf                              
+-a----        17-06-2020     13:41       17156898 Business Process Management Cases (2018).pdf                         
+-a----        17-06-2020     13:45        6342618 Customer Relationship Management (2018).pdf                          
+-a----        17-06-2020     13:48        8108421 Digital Business Models (2019).pdf                                   
+-a----        17-06-2020     13:43       11860272 Electronic Commerce 2018 (2018).pdf                                  
+-a----        17-06-2020     13:39        4013899 Enterprise Risk Management Models (2017).pdf                         
+-a----        17-06-2020     13:46       12900541 Entertainment Science (2019).pdf                                     
+-a----        17-06-2020     13:48       16635311 Excel Data Analysis (2019).pdf                                       
+-a----        17-06-2020     13:47       15220862 Global Supply Chain and Operations Management (2019).pdf             
+-a----        17-06-2020     13:48        3478318 International Business Management (2019).pdf                         
+-a----        17-06-2020     13:40        8086387 Introduction to Electronic Commerce and Social Commerce (2017).pdf   
+-a----        17-06-2020     13:45        4233437 Knowledge Management (2018).pdf                                      
+-a----        17-06-2020     13:42        4264717 Leadership Today (2017).pdf                                          
+-a----        17-06-2020     13:38        5043798 Linear and Nonlinear Programming (2016).pdf                          
+-a----        08-04-2021     13:51              0 List.txt                                                             
+-a----        17-06-2020     13:44       15853265 Managing Sustainable Business (2019).pdf                             
+-a----        17-06-2020     13:44        6900377 Market Research (2018).pdf                                           
+-a----        17-06-2020     13:41        5453835 Multinational Management (2016).pdf                                  
+-a----        17-06-2020     13:49        7631713 Social Marketing in Action (2019).pdf                                
+-a----        17-06-2020     13:41        3411854 Social Media Management (2016).pdf                                   
+-a----        17-06-2020     13:45        3481552 Strategic Human Resource Management and Employment Relations         
+                                                  (2018).pdf                                                           
+-a----        17-06-2020     13:42        6263616 Strategic Retail Management (2017).pdf                               
+-a----        17-06-2020     13:42        5750635 Sustainable Supply Chains (2017).pdf                                 
+-a----        17-06-2020     13:43        2563102 Travel Marketing, Tourism Economics and the Airline Product          
+                                                  (2018).pdf                                                           
+
+
