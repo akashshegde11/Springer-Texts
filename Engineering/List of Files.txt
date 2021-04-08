@@ -1,0 +1,46 @@
+
+
+    Directory: D:\Projects\Springer Books\Engineering
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2020     15:02        5828598 Additive Manufacturing Technologies (2010).pdf                       
+-a----        17-06-2020     15:05       10213910 Additive Manufacturing Technologies (2015).pdf                       
+-a----        17-06-2020     15:03        6015624 Alternative Energy Sources (2012).pdf                                
+-a----        17-06-2020     15:12       22953042 Astronautics (2018).pdf                                              
+-a----        17-06-2020     15:02       13990109 Engineering Electromagnetics (2015).pdf                              
+-a----        17-06-2020     15:03        4027730 Engineering Mechanics-1 (2013).pdf                                   
+-a----        17-06-2020     15:09        2842692 Engineering Mechanics-2 (2018).pdf                                   
+-a----        17-06-2020     15:00       35473858 Fatigue of Structures and Materials (2009).pdf                       
+-a----        17-06-2020     14:59       67249997 Fundamentals of Power Electronics (2001).pdf                         
+-a----        17-06-2020     15:00        7308300 Fundamentals of Robotic Mechanical Systems (2014).pdf                
+-a----        17-06-2020     15:10       14267342 Fundamentals of Solid State Engineering (2019).pdf                   
+-a----        17-06-2020     15:06       37487365 Fundamentals of Structural Engineering (2016).pdf                    
+-a----        17-06-2020     15:11        7939595 Internet of Things - From Hype to Reality (2019).pdf                 
+-a----        17-06-2020     15:11       27314594 Introduction to Digital Systems Design (2019).pdf                    
+-a----        17-06-2020     15:07       14537546 Introduction to Embedded Systems (2014).pdf                          
+-a----        17-06-2020     15:01       41682278 Introduction to Logic Circuits & Logic Design using Verilog          
+                                                  (2017).pdf                                                           
+-a----        17-06-2020     15:14       46676680 Introduction to Logic Circuits & Logic Design using Verilog          
+                                                  (2019).pdf                                                           
+-a----        17-06-2020     15:09       46357978 Introduction to Logic Circuits & Logic Design using VHDL (2017).pdf  
+-a----        17-06-2020     15:13       47370924 Introduction to Logic Circuits & Logic Design using VHDL (2019).pdf  
+-a----        17-06-2020     15:00       84580562 Intuitive Probability and Random Processes using MATLAB (2006).pdf   
+-a----        17-06-2020     15:05       20121319 Life Cycle Assessment (2018).pdf                                     
+-a----        08-04-2021     13:53              0 List.txt                                                             
+-a----        17-06-2020     15:04        5032528 Physics of Semiconductor Devices (2015).pdf                          
+-a----        17-06-2020     15:06       22890942 Practical Electrical Engineering (2016).pdf                          
+-a----        17-06-2020     15:04        9074289 Principles of Mobile Communication (2017).pdf                        
+-a----        17-06-2020     15:13       15926244 Quick Start Guide to Verilog (2019).pdf                              
+-a----        17-06-2020     15:12       18265553 Quick Start Guide to VHDL (2019).pdf                                 
+-a----        17-06-2020     15:05        8138607 Robotics (2009).pdf                                                  
+-a----        17-06-2020     15:09        9023188 Statics and Mechanics of Structures (2013).pdf                       
+-a----        17-06-2020     15:01       12921162 Structural Analysis (2009).pdf                                       
+-a----        17-06-2020     15:11       12680139 Structural Dynamics (2019).pdf                                       
+-a----        17-06-2020     15:07       27250698 The Finite Element Method and Applications in Engineering using      
+                                                  ANSYS (2015).pdf                                                     
+-a----        17-06-2020     15:08        9366105 The Finite Volume Method in Computational Fluid Dynamics (2016).pdf  
+-a----        17-06-2020     15:03        9326906 Thermodynamics and Energy Conversion (2014).pdf                      
+
+
