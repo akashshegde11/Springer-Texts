@@ -1,9 +1,0 @@
-Mode                 LastWriteTime         Length Name                                                                 
-----                 -------------         ------ ----                                                                 
--a----        17-06-2020     14:37       86081531 An Introduction to Soil Mechanics (2018).pdf                         
--a----        17-06-2020     14:38       43127228 ArcGIS for Environmental and Water Issues (2018).pdf                 
--a----        17-06-2020     14:36       12294590 Climate Change Science - A Modern Synthesis (2013).pdf               
--a----        17-06-2020     14:35       59582567 Irrigation and Drainage Engineering (2016).pdf                       
--a----        08-04-2021     13:52              0 List.txt                                                             
--a----        17-06-2020     14:36       41147387 Petroleum Geoscience (2015).pdf                                      
--a----        17-06-2020     14:38       10820427 Python for ArcGIS
